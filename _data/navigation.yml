@@ -3,14 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-#  - title: "Post"
- #  url: /post/    
+  - title: "Post"
+   url: /post/    
 
   - title: "Education "
     url: /education/    
     
-#  - title: "Portfolio"
-#    url: /portfolio/
+  - title: "Patent"
+    url: /patent/
         
  # - title: "Blog Posts"
  #   url: /year-archive/
