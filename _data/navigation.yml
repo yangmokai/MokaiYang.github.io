@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "Publications"
-   url: /publications/
+    url: /publications/
 
 #  - title: "Position"
 #   url: /position/    
 
 #  - title: "Education "
- #   url: /education/    
+#   url: /education/    
     
- # - title: "Patent"
- #   url: /patent/
+# - title: "Patent"
+#   url: /patent/
         
- # - title: "Blog Posts"
- #   url: /year-archive/
+# - title: "Blog Posts"
+#   url: /year-archive/
     
- # - title: "CV"
- #   url: /cv/
+# - title: "CV"
+#   url: /cv/
     
- # - title: "Guide"
- #   url: /markdown/
+# - title: "Guide"
+#   url: /markdown/
