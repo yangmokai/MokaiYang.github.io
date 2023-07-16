@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yang Mokai is a Grade 22 graduate student, studying for a master's degree in the School of Cyberspace Security of Southeast University in Nanjing, China, under the guidance of Dr. Li Guyue. Research directions include physical layer channel key generation and 5G OAI platform construction
+Yang Mokai is a Grade 22 graduate student, studying for a master's degree in the School of Cyberspace Security of Southeast University in Nanjing, China, under the guidance of Dr. Li Guyue. Research directions include physical layer channel key generation and 5G OAI platform construction.
 
 Position held
 ------
